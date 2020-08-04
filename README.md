@@ -2,5 +2,5 @@
 
 Open project plasma cnc cutter
 
-Hardware: hgr15, rack, nema23, 30x60 profile
+Hardware: hgr20+hgr15,  nema23, 30x60 profile
 
